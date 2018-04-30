@@ -17,7 +17,7 @@ getTransfer
 
 # Usage
 ```
-const CashFree = require('cashfree');
+const { CashFree } = require('cashfree');
 
 const options = {
   clientId: process.env['CLIENT_ID'],
