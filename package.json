@@ -1,5 +1,5 @@
 {
-  "name": "cashfree",
+  "name": "node-cashfree",
   "version": "1.0.1",
   "description": "An NPM module for interacting with the cashfree API",
   "main": "index.js",
